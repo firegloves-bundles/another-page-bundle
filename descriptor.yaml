@@ -1,0 +1,6 @@
+code: another-page-bundle
+description: This is the another page bundle
+
+components:
+  pages:
+    - pages/my-page.yml
